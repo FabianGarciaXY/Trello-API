@@ -16,5 +16,8 @@
     "JS"
   ],
   "author": "FabianGarciaXY",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
 }
